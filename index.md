@@ -5,4 +5,4 @@
 - Twine game - For When You're Feeling Sad
 - Unity technical demo
 - Shooting game (録音）
-- 独自プロジェクト　（録音）
+- 独自プロジェクト(録音)
