@@ -1,4 +1,4 @@
-<h2>Tommy Pengelly's Portfolio</h2>　:penguin:
+<h2>Tommy Pengelly's Portfolio</h2>　
 
 
 - Twine game - Transgressions
@@ -6,3 +6,5 @@
 - Unity technical demo
 - Shooting game (録音）
 - 独自プロジェクト(録音)
+
+:penguin:
