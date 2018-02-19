@@ -2,7 +2,7 @@
 
 
 - Twine game - Transgressions
-- Twine game - For When You're Feeling Sad
+- Twine game - When It All Seems Too Much
 - Unity technical demo
 - Shooting game (録音）
 - 独自プロジェクト(録音)
